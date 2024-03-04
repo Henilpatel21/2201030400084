@@ -1,0 +1,97 @@
+.vtasjxkzq3sfdq8bmrb29w-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 420px;
+  height: 646px;
+  object-fit: cover;
+}
+.lets-explore-the {
+  position: absolute;
+  top: 73px;
+  left: 75x;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+  color: var(--color-saddlebrown);
+  display: inline-block;
+  width: 363px;
+  height: 30px;
+}
+.android-small-1-child {
+  position: absolute;
+  top: 216px;
+  left: 36px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-papayawhip);
+  width: 304px;
+  height: 52px;
+}
+.user-name {
+  position: absolute;
+  top: 233px;
+  left: 56px;
+  font-weight: 200;
+}
+.android-small-1-item {
+  position: absolute;
+  top: 297px;
+  left: 36px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-papayawhip);
+  width: 304px;
+  height: 52px;
+}
+.password {
+  position: absolute;
+  top: 313px;
+  left: 56px;
+  font-weight: 200;
+}
+.android-small-1-inner {
+  position: absolute;
+  top: 408px;
+  left: 146px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-antiquewhite-200);
+  width: 129px;
+  height: 37px;
+}
+.log-in {
+  position: absolute;
+  top: 417px;
+  left: 186px;
+  font-family: var(--font-roboto-flex);
+}
+.rectangle-div {
+  position: absolute;
+  top: 474px;
+  left: 146px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-antiquewhite-200);
+  width: 129px;
+  height: 37px;
+}
+.or,
+.register {
+  position: absolute;
+  top: 483px;
+  left: 182px;
+  font-family: var(--font-roboto-flex);
+}
+.or {
+  top: 450px;
+  left: 197px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+}
+.android-small-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 638px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto-serif);
+}

@@ -1,0 +1,180 @@
+.vtasjxkzq3sfdq8bmrb29w-1-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 640px;
+  object-fit: cover;
+}
+.android-small-2-child {
+  position: absolute;
+  top: 94px;
+  left: 25px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 164px;
+  height: 32px;
+}
+.first-name {
+  position: absolute;
+  top: 102px;
+  left: 37px;
+}
+.android-small-2-item {
+  position: absolute;
+  top: 94px;
+  left: 196px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 154px;
+  height: 32px;
+}
+.last-name {
+  position: absolute;
+  top: 102px;
+  left: 209px;
+}
+.e-mail,
+.enter-name {
+  position: absolute;
+  top: 70px;
+  left: 36px;
+  font-weight: 600;
+}
+.e-mail {
+  top: 134px;
+}
+.android-small-2-inner {
+  position: absolute;
+  top: 158px;
+  left: 28px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 218px;
+  height: 32px;
+}
+.enter-email-id,
+.phone-no {
+  position: absolute;
+  top: 166px;
+  left: 40px;
+}
+.phone-no {
+  top: 206px;
+  left: 36px;
+  font-weight: 600;
+}
+.android-small-2-child1 {
+  position: absolute;
+  top: 230px;
+  left: 28px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 218px;
+  height: 32px;
+}
+.enter-mobile-number,
+.gender {
+  position: absolute;
+  top: 238px;
+  left: 40px;
+}
+.gender {
+  top: 278px;
+  left: 36px;
+  font-weight: 600;
+}
+.android-small-2-child2 {
+  position: absolute;
+  top: 304px;
+  left: 28px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 218px;
+  height: 32px;
+}
+.date-of-birth,
+.enter-gender {
+  position: absolute;
+  top: 312px;
+  left: 40px;
+}
+.date-of-birth {
+  top: 352px;
+  left: 36px;
+  font-weight: 600;
+}
+.android-small-2-child3 {
+  position: absolute;
+  top: 378px;
+  left: 28px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 218px;
+  height: 32px;
+}
+.enter-date-of,
+.enter-password {
+  position: absolute;
+  top: 384px;
+  left: 40px;
+}
+.enter-password {
+  top: 426px;
+  left: 36px;
+  font-weight: 600;
+}
+.android-small-2-child4 {
+  position: absolute;
+  top: 452px;
+  left: 28px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 218px;
+  height: 32px;
+}
+.enter-password1 {
+  position: absolute;
+  top: 460px;
+  left: 40px;
+}
+.android-small-2-child5 {
+  position: absolute;
+  top: 494px;
+  left: 28px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-antiquewhite-100);
+  width: 218px;
+  height: 32px;
+}
+.confirm-password {
+  position: absolute;
+  top: 502px;
+  left: 40px;
+}
+.android-small-2-child6 {
+  position: absolute;
+  top: 568px;
+  left: 136px;
+  border-radius: var(--br-mini);
+  background-color: #f9ead6;
+  width: 119px;
+  height: 40px;
+}
+.register1 {
+  position: absolute;
+  top: 580px;
+  left: 163px;
+  font-weight: 500;
+}
+.android-small-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--label-1-13pt-size);
+  color: var(--color-saddlebrown);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-berlin-sans-fb: "Berlin Sans FB";
+  --font-roboto-flex: "Roboto Flex";
+  --font-roboto-serif: "Roboto Serif";
+  --font-inter: Inter;
+  --label-1-13pt: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+  --font-size-mid: 17px;
+  --font-size-lgi: 19px;
+  --font-size-base: 16px;
+  --font-size-3xl: 22px;
+  --label-1-13pt-size: 13px;
+  --font-size-4xl: 23px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0.15);
+  --color-gray-200: rgba(0, 0, 0, 0.2);
+  --color-gray-300: rgba(255, 255, 255, 0.2);
+  --color-gray-400: rgba(255, 255, 255, 0.6);
+  --color-gray-500: rgba(255, 255, 255, 0.4);
+  --color-black: #000;
+  --color-saddlebrown: #4a220f;
+  --color-white: #fff;
+  --color-antiquewhite-100: rgba(249, 234, 214, 0.75);
+  --color-antiquewhite-200: rgba(236, 230, 213, 0.8);
+  --color-papayawhip: rgba(254, 242, 218, 0.75);
+  --color-whitesmoke-100: #ececec;
+  --color-lightgray: #cbcbcb;
+  --color-silver: rgba(196, 196, 196, 0.1);
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-lgi: 19px;
+  --gap-smi: 13px;
+  --gap-3xs: 10px;
+  --gap-8xl: 27px;
+
+  /* Paddings */
+  --padding-mid: 17px;
+  --padding-62xl: 81px;
+  --padding-17xl: 36px;
+  --padding-12xl: 31px;
+  --padding-19xl: 38px;
+  --padding-8xs: 5px;
+  --padding-7xs: 6px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-15xl: 34px;
+  --br-11xl: 30px;
+  --br-mini: 15px;
+  --br-mid: 17px;
+  --br-31xl: 50px;
+  --br-smi: 13px;
+}

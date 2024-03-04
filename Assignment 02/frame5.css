@@ -1,0 +1,238 @@
+.div7 {
+  width: 43px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 20px;
+  flex-shrink: 0;
+}
+.rectangle-icon35 {
+  width: 18px;
+  position: relative;
+  height: 18px;
+  object-fit: cover;
+}
+.rectangle-icon36,
+.rectangle-icon37 {
+  width: 24px;
+  position: relative;
+  height: 22px;
+  object-fit: cover;
+}
+.rectangle-icon37 {
+  width: 29px;
+  height: 32px;
+}
+.component5,
+.frame73 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame73 {
+  gap: 0 6px;
+  mix-blend-mode: difference;
+}
+.component5 {
+  position: absolute;
+  top: 16px;
+  left: 41px;
+  gap: 0 226px;
+  font-family: var(--font-berlin-sans-fb);
+}
+.rectangle-icon38 {
+  width: 30px;
+  position: relative;
+  height: 30px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.questions1 {
+  width: 322px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  height: 26px;
+  flex-shrink: 0;
+}
+.from1 {
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.from-planets1 {
+  line-height: 255.5%;
+}
+.planets2 {
+  width: 239px;
+  position: relative;
+  font-size: var(--font-size-11xl);
+  display: flex;
+  align-items: center;
+}
+.frame78,
+.frame79 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame78 {
+  width: 239px;
+  height: 106px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-8xs) 0;
+  box-sizing: border-box;
+}
+.frame76,
+.frame77 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame77 {
+  width: 278px;
+  height: 73px;
+  justify-content: flex-start;
+}
+.frame76 {
+  width: 319px;
+  justify-content: center;
+  gap: 0 17px;
+}
+.frame74,
+.frame75 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame75 {
+  width: 370px;
+  flex-direction: row;
+  align-items: center;
+}
+.frame74 {
+  position: absolute;
+  top: 59px;
+  left: 30px;
+  height: 83px;
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: var(--font-size-mid);
+}
+.frame80 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 430px;
+  height: 32px;
+}
+.rectangle-icon39 {
+  width: 100px;
+  position: relative;
+  height: 100px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.frame83 {
+  width: 289px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.lets-play1,
+.play-new-and1 {
+  position: relative;
+}
+.play-new-and1 {
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  margin-top: -6px;
+}
+.frame84 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.test-your-planetary1 {
+  width: 289px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 136.4%;
+  text-align: center;
+  display: inline-block;
+  height: 78px;
+  flex-shrink: 0;
+}
+.frame81,
+.frame82 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame82 {
+  width: 289px;
+  gap: 19px 0;
+}
+.frame81 {
+  position: absolute;
+  top: 221px;
+  left: 30px;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-gray-400);
+  width: 370px;
+  height: 379px;
+  overflow: hidden;
+  padding: var(--padding-17xl) var(--padding-12xl) var(--padding-19xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-11xl);
+}
+.start-play-now1 {
+  position: relative;
+  line-height: 136.4%;
+  font-weight: 500;
+}
+.vector-icon5 {
+  width: 28px;
+  position: relative;
+  height: 17.8px;
+}
+.frame85 {
+  position: absolute;
+  top: 648px;
+  left: 30px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-500);
+  width: 368px;
+  height: 82px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mid) var(--padding-62xl);
+  box-sizing: border-box;
+  gap: 0 20px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+}
+.frame72 {
+  width: 430px;
+  height: 940px;
+  object-fit: cover;
+  position: relative;
+  height: 932px;
+  overflow: hidden;
+  background-image: url(./public/frame@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-saddlebrown);
+  font-family: var(--font-poppins);
+}
